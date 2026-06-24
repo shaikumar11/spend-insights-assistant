@@ -1,0 +1,5 @@
+pandas
+chromadb
+streamlit
+requests
+plotly
